@@ -19,7 +19,7 @@ It includes the following:
 Rename the `.env-example` file to `.env` and add the following
 
 ```
-RAPID_API_KEY = your jobsearch api key from 
+RAPID_API_KEY = your jobsearch api key
 ```
 
 ### Install Dependencies (frontend)
