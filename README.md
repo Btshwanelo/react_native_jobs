@@ -1,4 +1,4 @@
-# MERN Authentication Starter
+# React Native job finder
 
 This is a frontend React Native application to search jobs and view jobs from Rapid-API api. it has three screens home screen, search jobs screen and view job detail screen. It utilises react native expo for crossplatform application.    
 
@@ -22,7 +22,7 @@ Rename the `.env-example` file to `.env` and add the following
 RAPID_API_KEY = your jobsearch api key from 
 ```
 
-### Install Dependencies (frontend & backend)
+### Install Dependencies (frontend)
 
 ```
 npm install
